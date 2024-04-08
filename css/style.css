@@ -1696,7 +1696,7 @@ body._lock {
 }
 
 .faq {
-  background: url("../img/bg.jpg") 0 0/cover no-repeat;
+  background: url("../img/bg.jpg") center/cover no-repeat;
 }
 @supports (padding-top: clamp( 1.875rem , 0.4608585859rem  +  7.0707070707vw , 6.25rem )) {
   .faq {
